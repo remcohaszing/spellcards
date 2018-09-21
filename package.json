@@ -23,7 +23,7 @@
     "babel-eslint": "^8.2.3",
     "babel-loader": "^8.0.0-beta.2",
     "babel-plugin-transform-react-pure-class-to-function": "^1.0.1",
-    "babel-plugin-transform-react-remove-prop-types": "^0.4.13",
+    "babel-plugin-transform-react-remove-prop-types": "^0.4.18",
     "classnames": "^2.2.5",
     "css-loader": "^0.28.11",
     "csv-parse": "^2.2.0",
